@@ -1,0 +1,36 @@
+body
+{
+    background-image: url(backgroung.jpg);
+}
+#heading
+{
+    background-color: mediumpurple;
+    font-size: 25;
+    color: hotpink;
+    align-content: center;
+    padding: 0;
+    margin-top: 0;
+}
+.note
+{
+    color: white;
+    font-size: 20;
+}
+.copy_right_footer
+{
+    font-family: cursive;
+    background-color: pink;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    font-size: 20;
+    line-height: 3;
+}
+canvas
+{
+    border: 5px solid grey;
+    border-width: thick;
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 100px;
+}
